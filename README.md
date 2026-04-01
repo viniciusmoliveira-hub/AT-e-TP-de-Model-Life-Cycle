@@ -5,4 +5,4 @@ TP 2 Model Life Cycle Link --> https://colab.research.google.com/drive/1uGMeUoqq
 
 TP 3 Model Life Cycle Link -->  https://colab.research.google.com/drive/1DihT1B41O2i6h4qk1OxwOTbbq56-zJDk?usp=sharing
 
-AT Model Life Cycle Link --> 
+AT Model Life Cycle Link --> https://colab.research.google.com/drive/13f5Gtlwf0JY5k8Q-fzdpZLifK6v9k3qW?usp=sharing
